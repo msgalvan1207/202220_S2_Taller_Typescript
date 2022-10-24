@@ -1,3 +1,4 @@
+// el export es como el inverso del import en Java. Se declara que el elemento va a hacer usado en otros archivos
 var Serie = /** @class */ (function () {
     function Serie(id, name, producer, seasons, descr, url, img) {
         this.id = id;
